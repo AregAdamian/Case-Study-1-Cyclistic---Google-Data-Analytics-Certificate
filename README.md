@@ -7,4 +7,5 @@ Most of the findings and visualizations are found in the powerpoint file, but I'
 
 
 SQL Code: https://console.cloud.google.com/bigquery?sq=1033714022549:bfd27f185bbc4f1ca4766f986f74ec02
+
 Tableau Visualizations: 

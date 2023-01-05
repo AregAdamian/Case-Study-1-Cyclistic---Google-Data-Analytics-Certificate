@@ -1,4 +1,4 @@
-# Case-Study-1-Cyclistic---Google-Data-Analytics-Certificate
+# Case Study 1: Cyclistic-Google Data Analytics Certificate
 The first case study within the Google Data Analytics Certificate
 
 This is my take on a cast study within the Google Data Analytics Certificate program. I primarily worked with SQL/Tableau, but I also included some R code as well.

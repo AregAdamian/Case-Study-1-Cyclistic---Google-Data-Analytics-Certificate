@@ -1,4 +1,4 @@
-# Case Study 1: Cyclistic-Google Data Analytics Certificate
+# Case Study 1: Cyclistic
 The first case study within the Google Data Analytics Certificate
 
 
